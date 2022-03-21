@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drag and Drop</string>
+    <string name="successful_drops">Successful Drops:</string>
+    <string name="total_drops">Total Drops:</string>
+</resources>
